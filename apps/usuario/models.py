@@ -20,3 +20,6 @@ class Usuario(models.Model):
         verbose_name = 'Usuário'
         verbose_name_plural = 'Usuários'
         ordering = ['id']
+    
+    def __str__(self):
+        return f"{self.first_name} {self.last_name}"
