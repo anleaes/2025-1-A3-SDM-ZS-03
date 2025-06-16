@@ -1,3 +1,5 @@
-/projetoapp/__pycache__/*
+appsolicitacaomanutencao/__pycache__/*
 /apps/usuario/__pycache__/
 /apps/usuario/migrations/
+/apps/solicitacao/__pycache__/*
+/apps/solicitacao/migrations/*
