@@ -4,3 +4,5 @@ from django.apps import AppConfig
 class SolicitacaoConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
     name = "solicitacao"
+    verbose_name = 'Solicitações Temporárias'
+    
