@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'usuario.apps.UsuarioConfig',
     'solicitacao.apps.SolicitacaoConfig',
+    'itemsolicitacao.apps.ItemsolicitacaoConfig',
+
 
 
 
