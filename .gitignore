@@ -5,3 +5,6 @@ appsolicitacaomanutencao/__pycache__/*
 /apps/solicitacao/migrations/*
 /apps/itemsolicitacao/__pycache__/*
 /apps/itemsolicitacao/migrations/*
+/apps/chamadomanutencao/__pycache__/*
+/apps/chamadomanutencao/migrations/*
+
