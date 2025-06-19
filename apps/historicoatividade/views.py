@@ -3,3 +3,7 @@ from rest_framework import viewsets
 from .models import HistoricoAtividade
 from .serializers import HistoricoAtividadeSerializer
 # Create your views here.
+
+class HistoricoAtividadeViewSet(viewsets.ModelViewSet):
+    queryset = HistoricoAtividade.objects.all()
+    serializer_class = HistoricoAtividadeSerializer
