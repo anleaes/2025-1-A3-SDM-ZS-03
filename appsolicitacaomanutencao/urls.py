@@ -26,6 +26,8 @@ urlpatterns = [
     path('solicitacoes/', include('solicitacao.urls', namespace='solicitacao')),
     path('chamados/', include('chamadomanutencao.urls', namespace='chamadomanutencao')),
     path('usuarios/', include('usuario.urls', namespace='usuario')),
+    path('historico/', include('historicoatividade.urls', namespace='historicoatividade')),
+
 
 
 
