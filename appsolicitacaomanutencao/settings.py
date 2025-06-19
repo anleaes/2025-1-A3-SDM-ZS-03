@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'usuario.apps.UsuarioConfig',
     'solicitacao.apps.SolicitacaoConfig',
     'itemsolicitacao.apps.ItemsolicitacaoConfig',
+    'chamadomanutencao.apps.ChamadomanutencaoConfig',
+
 
 
 
