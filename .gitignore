@@ -7,4 +7,6 @@ appsolicitacaomanutencao/__pycache__/*
 /apps/itemsolicitacao/migrations/*
 /apps/chamadomanutencao/__pycache__/*
 /apps/chamadomanutencao/migrations/*
+/apps/historicoatividade/__pycache__/*
+/apps/historicoatividade/migrations/*
 
