@@ -28,6 +28,8 @@ urlpatterns = [
     path('usuarios/', include('usuario.urls', namespace='usuario')),
     path('historico/', include('historicoatividade.urls', namespace='historicoatividade')),
     path('avaliacoes/', include('avaliacao.urls', namespace='avaliacao')),
+    path('tecnicos/', include('tecnico.urls', namespace='tecnico')),
+
 
 
 
