@@ -7,3 +7,12 @@ class Local(models.Model):
     andar = models.CharField('Andar', max_length=20, blank=True, null=True)
     sala = models.CharField('Sala', max_length=50, blank=True, null=True)
     referencia = models.TextField('Referência/Observações', blank=True, null=True)
+
+    class Meta:
+        verbose_name = 'Local'
+        verbose_name_plural = 'Locais'
+        ordering = ['nome']
+
+    def __str__(self):
+        return f"{self.nome} - Bloco {self.bloco or '-'} - Sala {self.sala or '-'}"
+
