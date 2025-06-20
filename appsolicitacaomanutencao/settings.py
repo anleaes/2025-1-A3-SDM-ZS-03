@@ -49,6 +49,9 @@ INSTALLED_APPS = [
     'avaliacao.apps.AvaliacaoConfig',
     'tecnico.apps.TecnicoConfig',
     'local.apps.LocalConfig',
+    'atribuicao.apps.AtribuicaoConfig',
+
+    
 
 
 
