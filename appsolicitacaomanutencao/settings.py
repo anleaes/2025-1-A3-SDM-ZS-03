@@ -47,6 +47,8 @@ INSTALLED_APPS = [
     'chamadomanutencao.apps.ChamadomanutencaoConfig',
     'historicoatividade.apps.HistoricoatividadeConfig',
     'avaliacao.apps.AvaliacaoConfig',
+    'tecnico.apps.TecnicoConfig',
+
 
 
 
