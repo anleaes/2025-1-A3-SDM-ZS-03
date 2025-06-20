@@ -15,4 +15,6 @@ appsolicitacaomanutencao/__pycache__/*
 /apps/tecnico/migrations/*
 /apps/local/__pycache__/*
 /apps/local/migrations/*
+/apps/atribuicaochamado/__pycache__/*
+/apps/atribuicaochamado/migrations/*
 
