@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     'historicoatividade.apps.HistoricoatividadeConfig',
     'avaliacao.apps.AvaliacaoConfig',
     'tecnico.apps.TecnicoConfig',
+    'local.apps.LocalConfig',
+
 
 
 
